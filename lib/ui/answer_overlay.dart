@@ -6,6 +6,7 @@ class AnswerOverlay extends StatefulWidget {
   final bool _isCorrect;
   final VoidCallback _onTap;
 
+  // constructor
   AnswerOverlay(this._isCorrect, this._onTap);
 
   @override

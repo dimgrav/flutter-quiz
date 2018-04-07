@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import './quiz_page.dart';
 
-class LandingPage extends StatelessWidget {
+class StartPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
